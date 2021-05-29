@@ -3,6 +3,7 @@ This is a survival prediction model built using data from patients with cardiova
 
 ML model will predict whether a patient will survive or die based on the following clinical features:
 
+
 age: age of the patient (years)
 
 anemia: decrease of red blood cells or hemoglobin (boolean)
